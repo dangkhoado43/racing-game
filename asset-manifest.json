@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf33b21e.css",
-    "main.js": "/static/js/main.7890e42b.js",
-    "static/media/carB.jpg": "/static/media/carB.bf04a57015f90f638556.jpg",
-    "static/media/carA.jpg": "/static/media/carA.72ab0747a3d0dd3277b0.jpg",
-    "index.html": "/index.html",
-    "main.cf33b21e.css.map": "/static/css/main.cf33b21e.css.map",
-    "main.7890e42b.js.map": "/static/js/main.7890e42b.js.map"
+    "main.css": "/racing-game/static/css/main.cf33b21e.css",
+    "main.js": "/racing-game/static/js/main.fa9f8948.js",
+    "static/media/carB.jpg": "/racing-game/static/media/carB.bf04a57015f90f638556.jpg",
+    "static/media/carA.jpg": "/racing-game/static/media/carA.72ab0747a3d0dd3277b0.jpg",
+    "index.html": "/racing-game/index.html",
+    "main.cf33b21e.css.map": "/racing-game/static/css/main.cf33b21e.css.map",
+    "main.fa9f8948.js.map": "/racing-game/static/js/main.fa9f8948.js.map"
   },
   "entrypoints": [
     "static/css/main.cf33b21e.css",
-    "static/js/main.7890e42b.js"
+    "static/js/main.fa9f8948.js"
   ]
 }
