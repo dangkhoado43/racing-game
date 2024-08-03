@@ -9,15 +9,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Prerequisites
 
 Make sure you have Node.js and npm installed on your machine.
+Make sure you have Git installed on your machine.
 
 ### Installation
 
 1. Clone the repository:
-   `git clone https://github.com/dangkhoado43/racing-game.git`
+   - Open your terminal.
+   - `git clone https://github.com/dangkhoado43/racing-game.git`
+   - `git checkout master`
 
-2. Install the dependencies:
+3. Install the dependencies:
     ### `npm install`
-3. Running the Application:
+4. Running the Application:
 
     ### `npm start`
 
