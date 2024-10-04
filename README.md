@@ -18,9 +18,9 @@ Make sure you have Git installed on your machine.
    - `git clone https://github.com/dangkhoado43/racing-game.git`
    - `git checkout master`
 
-3. Install the dependencies:
+2. Install the dependencies:
     ### `npm install`
-4. Running the Application:
+3. Running the Application:
 
     ### `npm start`
 
@@ -35,4 +35,3 @@ Make sure you have Git installed on your machine.
 -   Manual Racing: Click the "Race" button to move the cars manually.
 -   Automatic Racing: Click the "Start Auto Race" button to start the race automatically. Click "Stop Auto Race" to stop it.
 -   Reset: Click the "Reset" button to reset the race.
-#
