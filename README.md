@@ -18,9 +18,9 @@ Make sure you have Git installed on your machine.
    - `git clone https://github.com/dangkhoado43/racing-game.git`
    - `git checkout master`
 
-3. Install the dependencies:
+2. Install the dependencies:
     ### `npm install`
-4. Running the Application:
+3. Running the Application:
 
     ### `npm start`
 
